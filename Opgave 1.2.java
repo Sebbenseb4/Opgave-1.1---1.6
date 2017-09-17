@@ -7,7 +7,7 @@ public class Opgave11 {
 //Opgave 1.2
         //Print en kommentar x5 - Et loop
         //Variabler
-        String LoveJava = "I love Java.";
+        String LoveJava = "I love Java";
 
         for (int i = 0; i <= 4; i++) {
             System.out.println(LoveJava);
